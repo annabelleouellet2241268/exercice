@@ -34,7 +34,7 @@ Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Co
 -----
 -----
 -----
-[capture-écran]()
+[capture-écran](images/1-textes-alternatifs/1-2/screencapture-sail-ca-fr-chaussures-enfant-chaussures-de-sport-2023-02-24-10_11_02.png)
 - https://amzn.to/2NnbKPN 
 -----
 -----
@@ -63,9 +63,9 @@ Pour chaque problème de contraste identifié,
 documenter le problème par une capture-écran incluant dans son cadre, la zone fautive à gauche et à droite, les résultats détaillés de l’outil, tel que démontré dans l’exemple ci-dessous.
 
 Sauvegarder les captures dans le dossier images. Compléter les liens ci-dessous:
-- [Contraste insuffisant 1](images/...)
-- [Contraste insuffisant 2](images/...)
-- [Contraste insuffisant 3](images/...)
+- [Contraste insuffisant 1](images/2-contrastes-couleurs/Capture%20d%E2%80%99%C3%A9cran%2C%20le%202023-02-24%20%C3%A0%2010.28.36.png)
+- [Contraste insuffisant 2](images/2-contrastes-couleurs/Capture%20d%E2%80%99%C3%A9cran%2C%20le%202023-02-24%20%C3%A0%2010.29.16.png)
+- [Contraste insuffisant 3](images/2-contrastes-couleurs/Capture%20d%E2%80%99%C3%A9cran%2C%20le%202023-02-24%20%C3%A0%2010.30.06.png)
 
 ### 3. Structurer avec les h1-h6 une table des matières
 
@@ -82,9 +82,7 @@ __Tutoriel sur les formulaires du w3c__
 
 Réponse : 
 
-----
-----
-----
+La hiérarchie est bonne sur la page. Tout est respecté
 
 __L’affaire Savtchenko__ 
 [Article](images/3-table-des-matieres_h1-h6/3-1/article-savtchenko.pdf)  
@@ -92,9 +90,7 @@ __L’affaire Savtchenko__
   
 Réponse : 
 
-----
-----
-----
+C'est horrible comment les 
 
 
 #### 3.2 S'exercer à bien structurer
