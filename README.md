@@ -82,7 +82,7 @@ __Tutoriel sur les formulaires du w3c__
 
 Réponse : 
 
-La hiérarchie est bonne sur la page. Tout est respecté
+La hiérarchie est bonne sur la page. Tout est respecté.
 
 __L’affaire Savtchenko__ 
 [Article](images/3-table-des-matieres_h1-h6/3-1/article-savtchenko.pdf)  
@@ -90,7 +90,8 @@ __L’affaire Savtchenko__
   
 Réponse : 
 
-C'est horrible comment les 
+C'est horrible comment les H2 sont utilisés! Il ne faut pas mettre des H2 pour la navigation principale et les navigations de bas de pages, ce sont des éléments du site complet et non la page actuelle, d'où est-ce que l'on voit le mot "Formulaire de recherche"? Aucune idée! Le H2 avec "Après deux ans de détention en Russie, Nadia Savtchenko a été libérée ce mercredi 25 mai 2016 en échange de deux militaires russes retenus en Ukraine. La pilote
+ukrainienne avait été condamnée à 22 ans de prison pour le meurtre de deux journalistes dans l'Est séparatiste de l'Ukraine." ne représente pas un sous-titre, mais un paragraphe d'introducion.   
 
 
 #### 3.2 S'exercer à bien structurer
@@ -99,7 +100,7 @@ C'est horrible comment les
 - Ajouter un calque de blanc à 50% de transparence
 - Dans un 3e calque, par-dessus, identifiez les titres et leurs niveaux (h1-h6) de manière voyante (couleur rouge et font-size suffisant)
 - Sauvegarder au format .psd ou .png dans le même dossier.
-- [Relier ce fichier-réponse ici]()
+- [Relier ce fichier-réponse ici](images/3-table-des-matieres_h1-h6/3-2/concevoir-un-design-sans-la-couleur.png)
 
 ### 4. Baliser un tableau de données pour qu’il soit accessible
 
